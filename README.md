@@ -1,4 +1,4 @@
-![logo](https://github.com/Alok4D/Alok4D/blob/main/github-cover.png)
+![logo](Navy Blue Geometric Technology LinkedIn Banner.png)
 <h1 align="center">Hi 👋, I'm Alok Roy</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
