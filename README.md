@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **alokroy602701@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/1/home](https://drive.google.com/drive/u/1/home)
+- 📄 Know about my experiences
 
 - ⚡ Fun fact **I am funny ☺️**
 
