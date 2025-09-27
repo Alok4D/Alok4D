@@ -13,34 +13,24 @@
 
 - ⚡ Fun fact **I am funny ☺️**
 
-<!-- 🧑‍💻 About Me Section with Visitor Count -->
+## 🧑‍💻 About Me <img alt="Visitor Count" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alok4d.alok4d" />
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <h2>🧑‍💻 About Me</h2>
-    </td>
-    <td align="right">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=alok4d.alok4d" alt="Visitor Count" />
-    </td>
-  </tr>
-</table>
-
-<!-- Typing Effect Title -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0AFFEF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Alok+Roy!;MERN+Stack+Developer;Frontend+Engineer+with+Backend+Skills;Always+Learning+and+Building...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0AFFEF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Alok+Roy!;MERN+Stack+Developer;Passionate+Frontend+Engineer;Always+Learning+and+Building...)
 
 </div>
 
-<!-- About Paragraph -->
-I'm **Alok Roy**, a passionate and dedicated **MERN Stack Developer** who loves building full-stack web applications with clean UI, seamless UX, and efficient backend logic.
+I'm **Alok Roy**, a passionate **MERN Stack Developer** with a strong focus on crafting responsive, dynamic, and user-friendly web applications.  
+I specialize in **React.js**, **Node.js**, and **MongoDB**, and I love turning complex problems into simple, beautiful, and intuitive solutions.
 
-🔧 With expertise in **React.js**, **Node.js**, **Express.js**, and **MongoDB**, I create responsive, scalable, and production-ready web apps. I'm also comfortable with modern tools like **Next.js**, **Tailwind CSS**, **Redux Toolkit**, and **TypeScript**.
+💡 I enjoy exploring new technologies, working on real-world projects, and constantly pushing my limits to become a better developer.  
+Currently, I am actively contributing to full-stack projects using the latest tools like **Next.js**, **Redux Toolkit**, **Tailwind CSS**, and **TypeScript**.
 
-🚀 I'm constantly exploring new technologies and best practices, and I aim to contribute to innovative projects that make a real-world impact. My mission is to grow as a developer and deliver quality code that speaks for itself.
+My goal is to join a forward-thinking team, deliver impactful solutions, and continue evolving into a high-performing full-stack engineer.
 
-🎯 Let’s collaborate and build something impactful!
+🎯 Let’s connect and build something amazing together!
+
 
 
 ## 🌐 Connect with Me
