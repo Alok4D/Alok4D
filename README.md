@@ -13,9 +13,7 @@
 
 - ⚡ Fun fact **I am funny ☺️**
 
-
-
-## 🧑‍💻 About Me <img alt="Visitor Count" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alok4d.alok4d" />
+## 🧑‍💻 About Me
 
 <div align="center">
 
@@ -33,9 +31,9 @@ My goal is to join a forward-thinking team, deliver impactful solutions, and con
 
 🎯 Let’s connect and build something amazing together!
 
-
-
-
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alok4d.alok4d" alt="Visitor Count" />
+</p>
 
 
 ## 🌐 Connect with Me
