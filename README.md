@@ -10,7 +10,7 @@
 - 📫 How to reach me **alokroy602701@gmail.com**
 
 - 📄 Know about my experiences
-
+- ⚡ Fun fact **I am funny ☺️**
 
 <br/>
 
