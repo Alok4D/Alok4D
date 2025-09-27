@@ -15,7 +15,7 @@
 
 <br/>
 
-## 🧑‍💻 About Me <img alt="Visitor Count" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alok4d.alok4d" />
+## 🧑‍💻 About Me 
 
 <div align="center">
 
