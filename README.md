@@ -15,21 +15,27 @@
 
 
 
-
-
-
-
-## 🧑‍💻 About Me <img alt="Visitor Count" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nazmul-nhb.nazmul-nhb" />
+## 🧑‍💻 About Me <img alt="Visitor Count" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alok4d.alok4d" />
 
 <div align="center">
 
-![Details](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=I'm+Nazmul+Hassan!;+Full-Stack+Developer;+Front-End+Developer;+ReactJS+Developer;+MERN-Stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0AFFEF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Alok+Roy!;MERN+Stack+Developer;Passionate+Frontend+Engineer;Always+Learning+and+Building...)
 
 </div>
 
-I'm Nazmul Hassan, a tech enthusiast driven by the art of web development. Eager to join a forward-thinking team to shape the digital landscape through cutting-edge web development. Additionally, I aim to expand my expertise and grow into a full-stack developer.
+I'm **Alok Roy**, a passionate **MERN Stack Developer** with a strong focus on crafting responsive, dynamic, and user-friendly web applications.  
+I specialize in **React.js**, **Node.js**, and **MongoDB**, and I love turning complex problems into simple, beautiful, and intuitive solutions.
 
-I'm committed to enhancing user experiences through innovative web applications. By harnessing the power of React.js, I ensure that every web application I build is dynamic, engaging, and tailored to meet user expectations. My objective is to combine design and functionality to create engaging web experiences that deliver tangible value.
+💡 I enjoy exploring new technologies, working on real-world projects, and constantly pushing my limits to become a better developer.  
+Currently, I am actively contributing to full-stack projects using the latest tools like **Next.js**, **Redux Toolkit**, **Tailwind CSS**, and **TypeScript**.
+
+My goal is to join a forward-thinking team, deliver impactful solutions, and continue evolving into a high-performing full-stack engineer.
+
+🎯 Let’s connect and build something amazing together!
+
+
+
+
 
 
 ## 🌐 Connect with Me
