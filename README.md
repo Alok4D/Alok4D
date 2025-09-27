@@ -13,6 +13,7 @@
 
 - ⚡ Fun fact **I am funny ☺️**
 
+
 ## 🧑‍💻 About Me <img alt="Visitor Count" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nazmul-nhb.nazmul-nhb" />
 
 <div align="center">
