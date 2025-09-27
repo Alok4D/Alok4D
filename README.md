@@ -15,27 +15,14 @@
 
 <br/>
 
-<!-- 🧑‍💻 About Me Section with Profile View Count -->
+## 🧑‍💻 About Me <img alt="Visitor Count" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alok4d.alok4d" />
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <h2>🧑‍💻 About Me</h2>
-    </td>
-    <td align="right">
-      <img src="https://komarev.com/ghpvc/?username=alok4d&label=Profile%20views&color=0e75b6&style=flat" alt="alok4d" />
-    </td>
-  </tr>
-</table>
-
-<!-- Typing Effect Title -->
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0AFFEF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Alok+Roy!;MERN+Stack+Developer;Passionate+Frontend+Engineer;Always+Learning+and+Building...)
 
 </div>
 
-<!-- About Text -->
 I'm **Alok Roy**, a passionate **MERN Stack Developer** with a strong focus on crafting responsive, dynamic, and user-friendly web applications.  
 I specialize in **React.js**, **Node.js**, and **MongoDB**, and I love turning complex problems into simple, beautiful, and intuitive solutions.
 
@@ -45,7 +32,6 @@ Currently, I am actively contributing to full-stack projects using the latest to
 My goal is to join a forward-thinking team, deliver impactful solutions, and continue evolving into a high-performing full-stack engineer.
 
 🎯 Let’s connect and build something amazing together!
-
 
 
 
