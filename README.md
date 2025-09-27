@@ -13,20 +13,8 @@
 
 - ⚡ Fun fact **I am funny ☺️**
 
-
-
-
-
 <br/> 
-<br/> 
-
-
-
-
-
-
-
-## 🧑‍💻 About Me <img alt="Visitor Count" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alok4d.alok4d" />
+## 🧑‍💻 About Me <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok4d&label=Profile%20views&color=0e75b6&style=flat" alt="alok4d" /> </p>
 
 <div align="center">
 
