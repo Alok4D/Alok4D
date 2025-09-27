@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am funny ☺️**
 
 <br/> 
-## 🧑‍💻 About Me <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok4d&label=Profile%20views&color=0e75b6&style=flat" alt="alok4d" /> </p>
+## 🧑‍💻 About Me <p align="right"> <img src="https://komarev.com/ghpvc/?username=alok4d&label=Profile%20views&color=0e75b6&style=flat" alt="alok4d" /> </p>
 
 <div align="center">
 
