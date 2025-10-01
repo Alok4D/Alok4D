@@ -106,18 +106,10 @@ My goal is to join a forward-thinking team, deliver impactful solutions, and con
 ## 🟩 Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<p align="center">
-  <!-- Custom Contribution Bar (15 squares, latest on the right) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-<!-- OPTIONAL: আপনার নাম ও স্বাগতম টেক্সট -->
-<h3 align="center">Hi, I'm Alok Roy 👋</h3>
-<p align="center">Developer · Learner · Open-source Enthusiast</p>
 
 
