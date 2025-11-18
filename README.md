@@ -1,4 +1,4 @@
-![logo](https://github.com/Alok4D/Alok4D/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![logo](https://github.com/Alok4D/Alok4D/blob/main/Purple%20Blue%20Simple%20Professional%20Marketing%20Professional%20LinkedIn%20Article%20Cover%20Image.png)
 
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
