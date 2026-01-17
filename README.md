@@ -5,12 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok4d&label=Profile%20views&color=0e75b6&style=flat" alt="alok4d" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://alok-roy-dev.vercel.app/](https://alok-roy-dev.vercel.app/)
-
-- 📫 How to reach me **alokroy602701@gmail.com**
-
-- 📄 Know about my experiences
-- ⚡ Fun fact **I am funny ☺️**
 
 <br/>
 
