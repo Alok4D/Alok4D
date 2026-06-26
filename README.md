@@ -9,7 +9,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
- ### I'm a Associate MERN Stack Developer
+ ### I'm a Associate Full Stack Developer
 
 - 👨‍💻 I’m currently working on Backend Development.
 - 📚 Learning everything about Frontend and Backend technologies 😅
