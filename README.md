@@ -1,4 +1,4 @@
-![logo](https://github.com/Alok4D/Alok4D/blob/main/Purple%20Blue%20Simple%20Professional%20Marketing%20Professional%20LinkedIn%20Article%20Cover%20Image.png)
+![logo](https://github.com/Alok4D/Alok4D/blob/main/Purple%20Blue%20Simple%20Professional%20Marketing%20Professional%20LinkedIn%20Article%20Cover%20Image2026.png)
 
 
 
