@@ -24,7 +24,7 @@
 
 </div>
 
-I'm **Alok Roy**, a passionate **MERN Stack Developer** with a strong focus on crafting responsive, dynamic, and user-friendly web applications.  
+I'm **Alok Roy**, a passionate **Full Stack Developer** with a strong focus on crafting responsive, dynamic, and user-friendly web applications.  
 I specialize in **React.js**, **Node.js**, and **MongoDB**, and I love turning complex problems into simple, beautiful, and intuitive solutions.
 
 💡 I enjoy exploring new technologies, working on real-world projects, and constantly pushing my limits to become a better developer.  
