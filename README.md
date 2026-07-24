@@ -59,7 +59,7 @@ My goal is to join a forward-thinking team, deliver impactful software solutions
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 
 ### 🔧 Backend Technologies
