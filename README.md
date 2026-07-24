@@ -44,7 +44,7 @@ My goal is to join a forward-thinking team, deliver impactful software solutions
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/alok.roy.738161/)
 <!-- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24629498/alok-roy) -->
 
-## 🛠️ Skill Set
+## 💻 Tech Stack
 
 ### 🎨 Front-End Technologies
 
