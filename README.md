@@ -93,24 +93,24 @@ My goal is to join a forward-thinking team, deliver impactful software solutions
 ## 📊 Additional Stats
 
 <div align="center">
-    <table>
-        <tr>
-            <td align="center" width="50%">
-                <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alok4d&theme=transparent" alt="GitHub Stats">
-            </td>
-            <td align="center" width="50%">
-                <img src="https://github-readme-stats.vercel.app/api?username=alok4d&show_icons=true&theme=transparent&include_all_commits=false&number_format=long&border_color=00000000" alt="GitHub Stats">
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="50%">
-                <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alok4d&theme=transparent" alt="Top Languages by Repo">
-            </td>
-            <td align="center" width="50%">
-                <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alok4d&theme=transparent" alt="Top Languages by Commit">
-            </td>
-        </tr>
-    </table>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alok4d&theme=transparent" alt="Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=alok4d&show_icons=true&theme=transparent&include_all_commits=false&number_format=long&border_color=00000000" alt="GitHub Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alok4d&theme=transparent" alt="Top Languages by Repo" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alok4d&theme=transparent" alt="Top Languages by Commit" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🟩 Contribution Activity
