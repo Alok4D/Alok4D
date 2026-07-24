@@ -31,7 +31,6 @@ Currently, I am actively developing full-stack applications using **Next.js**, *
 My goal is to join a forward-thinking team, deliver impactful software solutions, and continue growing as a high-performing **Software Engineer**.
 
 💡 I love exploring new technologies, building real-world projects, and continuously improving my skills as a developer.
-
 🎯 Let’s connect and build something amazing together!
 
 
