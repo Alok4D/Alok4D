@@ -24,15 +24,13 @@
 
 </div>
 
-I'm **Alok Roy**, a passionate **Full Stack Developer** with a strong focus on building modern, scalable, and user-friendly web applications.
-
-I specialize in **Next.js**, **React.js**, **TypeScript**, **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**, and **Prisma**, and I enjoy turning complex problems into clean, efficient, and intuitive solutions.
-
-💡 I love exploring new technologies, building real-world projects, and continuously improving my skills as a developer.
+I'm **Alok Roy**, a passionate **Full Stack Developer** with a strong focus on building modern, scalable, and user-friendly web applications. I specialize in **Next.js**, **React.js**, **TypeScript**, **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**, and **Prisma**, and I enjoy turning complex problems into clean, efficient, and intuitive solutions.
 
 Currently, I am actively developing full-stack applications using **Next.js**, **Redux Toolkit**, **Tailwind CSS**, **Node.js**, **PostgreSQL**, and **Prisma**.
 
 My goal is to join a forward-thinking team, deliver impactful software solutions, and continue growing as a high-performing **Software Engineer**.
+
+💡 I love exploring new technologies, building real-world projects, and continuously improving my skills as a developer.
 
 🎯 Let’s connect and build something amazing together!
 
