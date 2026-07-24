@@ -73,16 +73,19 @@ My goal is to join a forward-thinking team, deliver impactful software solutions
 
 ### 🧰 Tools & Platforms
 
-![Firebase Authentication](https://img.shields.io/badge/Firebase-Authentication-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=dd2c00)
-![Vercel CLI](https://img.shields.io/badge/vercel%20cli-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Tanstack Query](https://img.shields.io/badge/tanstack%20query-%2320232a.svg?style=for-the-badge&logo=react-query)
-![Tanstack Table](https://img.shields.io/badge/tanstack%20table-%2320232a.svg?style=for-the-badge&logo=react-table)
-![Zod](https://img.shields.io/badge/Zod%20Validation-%2320232a?style=for-the-badge&logo=zod)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%2320232a?style=for-the-badge&logo=react-hook-form&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-%2320232a.svg?style=for-the-badge&logo=stripe)
-![JWT](https://img.shields.io/badge/JWT-%2320232a?style=for-the-badge&logo=JSON%20web%20tokens)
-![GIT](https://img.shields.io/badge/Git-%2320232a?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-%2320232a?style=for-the-badge&logo=figma)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 <!-- ![Adobe Acrobat Pro](https://img.shields.io/badge/Adobe%20Acrobat%20Pro-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white) -->
 
 ## 📊 Additional Stats
